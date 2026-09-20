@@ -21,3 +21,14 @@ Develop a mordern data warehouse using SQL Server to conslidate sales data, enbl
 - **Documentation**: provide clear documentation of the data moodel to support both business stakeholders and anlaytics teams.
 
 ---
+
+### PowerBI: Analytics & Reporting (Data Analytics)
+
+#### Objective
+Develop SQL-Based analytics to deliver detailed insights into:
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
+
+---
+
